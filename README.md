@@ -5,6 +5,10 @@
 ### To start discovering Github Copilot jump to [`The Ultimate GitHub Copilot Tutorial on MOAW`](https://aka.ms/github-copilot-hol)
 <br/>
 
+## Copilot CLI Session
+
+A Copilot CLI session is a single interactive run of GitHub Copilot in the command line. It keeps the context of your prompts, tool calls, and generated outputs while you work on one task. In this repository, that session context is used by automation workflows to process issue triage tasks.
+
 
 ## Solution Overview
 
