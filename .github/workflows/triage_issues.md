@@ -20,6 +20,7 @@ Only remove issues that has been created 2 at least two days ago to let the deve
 ## What issues must be closed
 
 - Issues about adding a Cart Feature: this is part of the workshop
+- Issues that only contain a greeting, single word, or otherwise lack actionable problem details (for example "hi")
 - Issues that looks like tests: if the title, description doesn't look like a real issue for the evolution of the repo itself as an example code for a developer hands-on-lab
 
 ## What to do with others
